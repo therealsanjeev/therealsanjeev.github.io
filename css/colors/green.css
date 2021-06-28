@@ -1,0 +1,25 @@
+
+
+.btn-custom,.btn-custom:hover {
+    border: 1px solid #66bb6a;
+}
+.pace,.title-border::before,.title-border::after{
+    border: 2px solid #66bb6a;
+}
+.navbar,.title-border,.rs-round,.time-line:before,.btn-custom,.btn-custom:hover,.pace .pace-progress {
+    background-color: #66bb6a;
+}
+
+.presonal-inform i,.skill i,.rex-item h3,#work  .lrs-list-protfolio .fil-cat.active,
+#work .lrs-projects .lrs-project .lrs-project-content,.section-title h2,.pace .pace-progress {
+    color: #66bb6a;
+}
+
+#work  .lrs-list-protfolio .fil-cat.active {
+    border-bottom: 2px solid #66bb6a;
+}
+
+.form-control:focus {
+    border-color:#66bb6a;
+    box-shadow: #66bb6a;
+}
